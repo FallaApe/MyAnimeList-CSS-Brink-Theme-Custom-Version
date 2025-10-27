@@ -13,7 +13,7 @@ A fully customized version of the popular **Brink Theme** for **MyAnimeList Anim
 
 | Screenshot |
 |-----------|
-| ![Preview](./screenshot-preview.png) |
+| ![Preview](https://github.com/FallaApe/MyAnimeList-CSS-Brink-Theme-Custom-Version/blob/817ff350bb04a371f7fb99b9e52d0bb1d2b7c1ee/Screenshot%202025-10-27%20150319.png) |
 
 *(Replace with real screenshot once uploaded)*
 
