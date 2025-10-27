@@ -1,4 +1,4 @@
-# MyAnimeList CSS – Brink Theme Custom Version ❄️✨
+# MyAnimeList CSS – Brink Theme Custom Version 
 
 A fully customized version of the popular **Brink Theme** for **MyAnimeList Anime Lists** featuring:
 ✔ Custom animated snowfall  
@@ -15,34 +15,62 @@ A fully customized version of the popular **Brink Theme** for **MyAnimeList Anim
 |-----------|
 | ![Preview](https://github.com/FallaApe/MyAnimeList-CSS-Brink-Theme-Custom-Version/blob/817ff350bb04a371f7fb99b9e52d0bb1d2b7c1ee/Screenshot%202025-10-27%20150319.png) |
 
+---
 
+##  How to Install
+
+1️⃣ Open your **Anime List** on MyAnimeList  
+2️⃣ Click **⚙ List Settings** (top bar)  
+3️⃣ Go to **Theme → Custom CSS**  
+4️⃣ Copy the contents of:  
+5️⃣ Paste into the **Custom CSS box**  
+6️⃣ Save  
+7️⃣ Refresh your list page (Ctrl + F5 if needed)
 
 ---
 
-## 📥 How to Install
+##  Features
 
-1️⃣ Go to your MAL Anime List  
-2️⃣ Click **⚙ List Settings → Theme → CSS**  
-3️⃣ Paste the contents of this file:  
-👉 `themes/brink-custom-theme.css`  
-
-4️⃣ Save ✅  
-5️⃣ Refresh your anime list page
-
-
+-  Layered falling snow animation  
+-  Updated background + button colors  
+-  Seasonal anime icons  
+-  Custom cursor  
+-  Smooth UI animations  
+-  Better readability and style
 
 ---
 
-## 🛠️ Features
+##  Customization Options
 
-- ❄️ Layered falling snow animation  
-- 🎨 Color changes and button styling  
-- 💫 Hover animations & improved readability  
-- 🎯 Seasonal icons for anime airing timeline  
-- 🖱 Custom mouse cursor effects  
-- ⚡ Fully responsive visual improvements  
+You can modify the theme directly inside:
+
+Examples:
+- Change snow color  
+- Change fonts  
+- Replace cursor icon  
+- Modify theme colors  
+- Edit hover and button styles
+
+Refresh page after changes 
 
 ---
 
 ## 🗂 Project Structure
+
+Below is the layout of this project and what each file is used for.
+
+MyAnimeList-CSS-Brink-Theme-Custom-Version/
+│
+├── brink-custom-theme.css              → Main CSS theme file
+├── Screenshot 2025-10-27 150319.png    → Theme preview image
+├── INSTALLATION.txt                    → How to install the theme
+├── CUSTOMIZATION.txt                   → How to modify the theme
+├── LICENSE                             → Usage permissions
+
+##  Credits
+
+Original **Brink Theme** by **Valerio Lyndon**  
+Custom modifications by **FallaApe (Shivam Sharma)** 
+
+---
 
